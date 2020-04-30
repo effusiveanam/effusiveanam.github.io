@@ -31,8 +31,11 @@
     "file-loader": "^6.0.0",
     "nodemon": "^2.0.3",
     "resolve-url-loader": "^3.1.1",
+<<<<<<< HEAD
     "url-loader": "^4.1.0",
     "webpack": "^4.43.0",
+=======
+>>>>>>> c07602e15aeb116d37490370407d67a5b2af47f7
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
